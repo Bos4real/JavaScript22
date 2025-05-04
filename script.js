@@ -11,7 +11,7 @@ const questions = [
 	},
 	{
 	  text: "How many continents are there?",
-	  answers: [5 , 6, 7],
+	  answers: ["5" , "6", "7"],
 	  correct: 2
 	}
   ];
